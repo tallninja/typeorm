@@ -571,7 +571,7 @@ export class DataSource {
     }
 
     /**
-     * Creates a query runner used for perform queries on a single database connection.
+     * Creates a query runner used for performing queries on a single database connection.
      * Using query runners you can control your queries to execute using single database connection and
      * manually control your database transaction.
      *
